@@ -16,13 +16,13 @@ Before using this Cloud Function, ensure you have the following:
 
 1. Set up environment variables:
 
--DB_NAME: Name of your MySQL database
--DB_USER: MySQL database username
--DB_PASSWORD: MySQL database password
--DB_HOST: MySQL database host
--DB_PORT: MySQL database port
--MAILGUN_API_KEY: API key for Mailgun
--MAILGUN_DOMAIN: Domain configured in Mailgun
+- DB_NAME: Name of your MySQL database
+- DB_USER: MySQL database username
+- DB_PASSWORD: MySQL database password
+- DB_HOST: MySQL database host
+- DB_PORT: MySQL database port
+- MAILGUN_API_KEY: API key for Mailgun
+- MAILGUN_DOMAIN: Domain configured in Mailgun
 
 
 2. Usage
